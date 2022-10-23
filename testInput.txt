@@ -1,0 +1,48 @@
+Same Deadline Same Profit
+DSA Practical Test Preparation,3,10.0,
+DSA Midterm Test Preparation  ,3,10.0,
+DSA Assignment                ,3,10.0,
+DSA Assignment Presentation   ,3,10.0,
+DSA Final Exam Preparation    ,3,10.0,
+DSA Practical Exercise        ,3,10.0,
+
+Same Deadline Different Profit
+DSA Practical Test Preparation,3,10.0,
+DSA Midterm Test Preparation  ,3,20.0,
+DSA Assignment                ,3,30.0,
+DSA Assignment Presentation   ,3,40.0,
+DSA Final Exam Preparation    ,3,50.0,
+DSA Practical Exercise        ,3,60.0,
+
+Different Deadline Same Profit
+DSA Practical Test Preparation,2,10.0,
+DSA Midterm Test Preparation  ,2,10.0,
+DSA Assignment                ,3,10.0,
+DSA Assignment Presentation   ,8,10.0,
+DSA Final Exam Preparation    ,10,10.0,
+DSA Practical Exercise        ,12,10.0,
+
+Different Deadline Different Profit
+DSA Practical Test Preparation,1,10.0,
+DSA Midterm Test Preparation  ,2,20.0,
+DSA Assignment                ,3,30.0,
+DSA Assignment Presentation   ,4,40.0,
+DSA Final Exam Preparation    ,5,50.0,
+DSA Practical Exercise        ,6,60.0,
+
+Unable To Finish All The Jobs
+DSA Practical Test Preparation,1,10.0,
+DSA Midterm Test Preparation  ,2,10.0,
+DSA Assignment                ,3,50.0,
+DSA Assignment Presentation   ,2,70.0,
+DSA Final Exam Preparation    ,4,30.0,
+DSA Practical Exercise        ,4,10.0,
+
+Negative Values
+DSA Practical Test Preparation,2,10.0,
+DSA Midterm Test Preparation  ,2,20.0,
+DSA Assignment                ,3,60.0,
+DSA Assignment Presentation   ,8,40.0,
+DSA Final Exam Preparation    ,10,-50.0,
+DSA Practical Exercise        ,-12,60.0,
+
