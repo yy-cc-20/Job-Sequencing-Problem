@@ -10,10 +10,10 @@ Given a list of exam and assignments with deadlines and marks, arrange the seque
 4. The marks will be earned after the task is completed.
 
 ## Approaches
-Approach 1: For each task, we choose the day which is the closest to the deadline from list of available days. <br/>
-Approach 2: For each day, we choose the task with the highest marks from list of unassigned tasks.
+Approach 1: For each task, choose the day which is the closest to the deadline from list of available days. <br/>
+Approach 2: For each day, choose the task with the highest marks from list of unassigned tasks.
 
-We used binary search tree and greedy algorithm for both approaches to find the optimal choice for each day/task. The time complexity for both algorithm are O(n log(n)). Both approaches give the same result.
+Used binary search tree and greedy algorithm for both approaches to find the optimal choice for each day/task. The time complexity for both algorithm are O(n log(n)). Both approaches give the same result.
 
 ![image](https://user-images.githubusercontent.com/65067887/215104020-d2ba4049-7968-4c45-a58a-9ce63acb0254.png)
 
