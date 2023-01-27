@@ -1,5 +1,6 @@
 # Job-Sequencing-Problem
 Given a list of exam and assignments with deadlines and marks, arrange the sequence of doing the tasks to get the maximum marks.
+
 ![image](https://user-images.githubusercontent.com/65067887/215103203-053c831e-cff1-47cd-8021-95403677a4e5.png)
 
 ## Assumptions
