@@ -20,7 +20,7 @@ For each day, choose the task with the highest marks from list of unassigned tas
 Used binary search tree and greedy algorithm for both approaches to find the optimal choice for each day/task. The time complexity for both algorithm are O(n log(n)). Both approaches give the same result.
 
 <details>
-<summary><h3 style="margin-bottom: 0px">Test Case 1</h3></summary>
+<summary><h3>Test Case 1</h3></summary>
 
 ![image](https://user-images.githubusercontent.com/65067887/215104020-d2ba4049-7968-4c45-a58a-9ce63acb0254.png)
 </details>
