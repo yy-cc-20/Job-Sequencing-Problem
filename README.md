@@ -17,8 +17,8 @@ For each task, choose the day which is the closest to the deadline from list of 
 ### Approach 2
 For each day, choose the task with the highest marks from list of unassigned tasks.
 
-Used binary search tree and greedy algorithm for both approaches to find the optimal choice for each day/task. 
-> The time complexity for both algorithm are O(n log(n)). Both approaches give the same result.
+Used binary search tree and greedy algorithm for both approaches to find the optimal choice for each day/task. Both approaches give the same result.
+✨ The time complexity for both algorithm are O(n log(n)). 
 
 <details>
 <summary><h3>Test Case 1: Same Deadline Same Profit</h3></summary>
