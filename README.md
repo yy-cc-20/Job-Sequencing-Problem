@@ -20,37 +20,37 @@ For each day, choose the task with the highest marks from list of unassigned tas
 Used binary search tree and greedy algorithm for both approaches to find the optimal choice for each day/task. The time complexity for both algorithm are O(n log(n)). Both approaches give the same result.
 
 <details>
-<summary><h3>Test Case 1</h3></summary>
+<summary><h3>Test Case 1: Same Deadline Same Profit</h3></summary>
 
 ![image](https://user-images.githubusercontent.com/65067887/215104020-d2ba4049-7968-4c45-a58a-9ce63acb0254.png)
 </details>
 
 <details>
-<summary><h3>Test Case 2</h3></summary>
+<summary><h3>Test Case 2: Same Deadline Different Profit</h3></summary>
 
 ![image](https://user-images.githubusercontent.com/65067887/215104074-096a2659-53f1-47d8-b4c0-fb8630e73de2.png)
 </details>
 
 <details>
-<summary><h3>Test Case 3</h3></summary>
+<summary><h3>Test Case 3: Different Deadline Same Profit</h3></summary>
 
 ![image](https://user-images.githubusercontent.com/65067887/215104176-7ea8b9dd-e290-498d-bb82-3bb1c15b924a.png)
 </details>
 
 <details>
-<summary><h3>Test Case 4</h3></summary>
+<summary><h3>Test Case 4: Different Deadline Different Profit</h3></summary>
 
 ![image](https://user-images.githubusercontent.com/65067887/215104239-e604de38-99c4-4661-9c47-e482b7d9dc7c.png)
 </details>
 
 <details>
-<summary><h3>Test Case 5</h3></summary>
+<summary><h3>Test Case 5: Unable To Finish All The Tasks</h3></summary>
 
 ![image](https://user-images.githubusercontent.com/65067887/215104313-60a4462a-ad36-4238-b678-ecb865df3309.png)
 </details>
 
 <details>
-<summary><h3>Test Case 6</h3></summary>
+<summary><h3>Test Case 6: Nagtive Values</h3></summary>
 
 ![image](https://user-images.githubusercontent.com/65067887/215104379-34a8ef41-0a16-4030-9083-cec20fb48f48.png)
 </details>
