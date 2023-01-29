@@ -1,4 +1,4 @@
-# Job-Sequencing-Problem
+# Job-Sequencing-Problem 💼
 Given a list of exam and assignments with deadlines and marks, arrange the sequence of doing the tasks to get the maximum marks.
 
 #### Sample Data
@@ -10,7 +10,7 @@ Given a list of exam and assignments with deadlines and marks, arrange the seque
 3. Every task can start at any day before its deadline.
 4. The marks will be earned after the task is completed.
 
-## Solutions
+## Solutions 💡
 ### Approach 1
 For each task, choose the day which is the closest to the deadline from list of available days. <br/>
 
